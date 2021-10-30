@@ -1,0 +1,7 @@
+{
+    "scripts": {
+        "start-hub": "cd ./hub && npm run dev",
+        "start-frame": "cd ./frame && npm run dev",
+        "install-both": "sh ./install.sh"
+    }
+}

@@ -1,0 +1,1 @@
+This is a demo showing how a iframe on a website can have access to the geo-location of the main frame through web-sockets.
